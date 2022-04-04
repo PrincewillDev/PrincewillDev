@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princewilldev" alt="princewilldev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prince_d_coder" target="blank"><img src="https://img.shields.io/twitter/follow/@prince_d_coder?logo=twitter&style=for-the-badge" alt="@prince_d_coder.com" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prince_d_coder" target="blank"><img src="https://img.shields.io/twitter/follow/prince_d_coder?logo=twitter&style=for-the-badge" alt="prince_d_coder" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -25,14 +25,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@princewilldev" height="30" width="40" /></a>
-<a href="https://dev.to/@princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="princewilldev" height="30" width="40" /></a>
-<a href="https://twitter.com/@prince_d_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prince_d_coder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@princewillfidelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princewill fidelis" height="30" width="40" /></a>
-<a href="https://instagram.com/@princewill_fidelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princewill_fidelis" height="30" width="40" /></a>
-<a href="https://dribbble.com/@developer-prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="developer-prince" height="30" width="40" /></a>
-<a href="https://hashnode.com/@princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@princewilldev" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/@princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="princewilldev" height="30" width="40" /></a>
+<a href="https://codepen.io/princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@princewilldev" height="30" width="40" /></a>
+<a href="https://dev.to/princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="princewilldev" height="30" width="40" /></a>
+<a href="https://twitter.com/prince_d_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prince_d_coder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/princewillfidelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princewill fidelis" height="30" width="40" /></a>
+<a href="https://instagram.com/princewill_fidelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princewill_fidelis" height="30" width="40" /></a>
+<a href="https://dribbble.com/developer-prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="developer-prince" height="30" width="40" /></a>
+<a href="https://hashnode.com/princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@princewilldev" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/princewilldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="princewilldev" height="30" width="40" /></a>
 <a href="https://discord.gg/#5696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5696" height="30" width="40" /></a>
 </p>
 
