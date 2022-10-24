@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/prince_d_coder" target="blank"><img src="https://img.shields.io/twitter/follow/prince_d_coder?logo=twitter&style=for-the-badge" alt="prince_d_coder" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python Programming**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Princewilldev](https://hashnode.com/@Princewilldev)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT BASICS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT BASICS, Python**
 
 - 📫 How to reach me **princewillfidelis1@gmail.com**
 
